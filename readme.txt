@@ -1,0 +1,1 @@
+This is a folder where source files for this project are copied before being COMMITed to the Git repository
